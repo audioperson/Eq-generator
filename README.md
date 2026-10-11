@@ -1,0 +1,1 @@
+For my project, I wrote a program that generates an EQ setting based on a comparison between a reference audio track and another track (e.g., one that has been recorded). This makes it possible to calibrate a PA system for flat frequency response. Currently, the program only runs on Mac, and the audio device must be selected manually or configured via Audio MIDI Setup.
