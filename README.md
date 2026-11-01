@@ -1,5 +1,6 @@
 For my project, I wrote a program that generates an EQ setting based on a comparison between a reference audio track and another track (e.g., one that has been recorded). This makes it possible to calibrate a PA system for flat frequency response. Currently, the program only runs on Mac, and the audio device must be selected manually or configured via Audio MIDI Setup. Of curse I am working on a good settings menu where you can just select your audio device and the channels so it more friendly for the user. 
 
-In the next update the program has an slightly working anti noise via kross correlation and an upgraded time difference correction (via peaks in the frequency)
 
-I want to Programm this because I work with sound systems and mix bands and the tools that exists are expensive and are not exactly something I need so I started programming a tool for It, in the v0.3 or higher, is an graphical user interface for better usability. And with this project I have something to do and also learn how to calculate with audio (and how to optimize it, because it sometimes takes to long and lags) 
+I want to Programm this because I work with sound systems and mix bands and the tools that exists are expensive and are not exactly something I need so I started programming a tool for It, in the v0.3 or higher, is an graphical user interface for better usability. And with this project I have something to do and also learn how to calculate with audio 
+
+the 0.4 version now is less laggy and has an anti noise via kross correlation and an upgraded time difference correction (via peaks in the frequency) It also has an settings menu to select the audio devices and shows errors
