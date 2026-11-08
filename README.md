@@ -7,3 +7,6 @@ It can generate an eq with live audio (an audio interface) or with already recor
 I want to Programm this because I work with sound systems and mix bands and the tools that exists are expensive and are not exactly something I need so I started programming a tool for It, in the v0.3 or higher, is an graphical user interface for better usability. And with this project I have something to do and also learn how to calculate with audio.
 
 the 0.4 version now is less laggy and has an anti noise via kross correlation and an upgraded time difference correction (via peaks in the frequency) It also has an settings menu to select the audio devices and shows errors.
+
+The project has (in v0.3 and 0.4) to files first vergleich.py this is the "old" code, wich has the main calculation in it, it is used in gui.py as a library. gui.py features the GUI and also some calculation, wich was later added. The v0.5 will also have test_room.py wich calculates the room.
+
