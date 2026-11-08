@@ -11,3 +11,10 @@ the 0.4 version now is less laggy and has an anti noise via kross correlation an
 
 The project has (in v0.3 and 0.4) to files first vergleich.py this is the "old" code, wich has the main calculation in it, it is used in gui.py as a library. gui.py features the GUI and also some calculation, wich was later added. The v0.5 will also have test_room.py wich calculates the room.
 
+the new code is in the v0.5 folder
+
+
+
+
+
+st
