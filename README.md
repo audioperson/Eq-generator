@@ -13,8 +13,10 @@ The project has (in v0.3 and 0.4) to files first vergleich.py this is the "old" 
 
 the new code is in the v0.5 folder
 
+In the new v0.6 is the Preset function available. To use it, you press on the settings menu, analyze the room In the room analysis tab and than go to the preset tab and choose you preset.
 
 
 
 
-st
+
+
